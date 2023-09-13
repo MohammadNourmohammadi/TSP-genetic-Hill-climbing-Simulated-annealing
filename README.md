@@ -1,5 +1,3 @@
-# TSP-genetic-Hill-climbing-Simulated-annealing
-
 
 # Solve TSP with genetic, hill climbing, Simulated annealing
 
